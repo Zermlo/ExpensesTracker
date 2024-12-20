@@ -1,0 +1,24 @@
+{
+    "expenses": {
+        "2024-12-16": [
+            {
+                "type": "Food",
+                "amount": 12.0
+            },
+            {
+                "type": "Food",
+                "amount": 21.0
+            },
+            {
+                "type": "dd",
+                "amount": 111.0
+            }
+        ]
+    },
+    "expense_types": [
+        "Food",
+        "Transport",
+        "Utilities",
+        "dd"
+    ]
+}
